@@ -1,13 +1,10 @@
 # PHSX815_Week9
 
-This repository contains the program:
-
-
-The following python file 
+This repository contains the  python program:
 
 * NumericalMinimization2.py 
 
-can be run from the Command/Terminal line by typing:
+which can be run from the Command/Terminal line by typing:
 
 `<> python NumericalMinimization2.py `
 
